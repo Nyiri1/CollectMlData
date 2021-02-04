@@ -2,10 +2,10 @@
   A tool to quickly coolect training data for CNN in various resolutions
 
 # Features
-  Adjustable Resolution from 1 to the maximum your camera offers
-  Adjustable interval between pictures from 0ms to 2000ms
-    smallest possible interval depends on chosen resolution
-  Auto-Save in phone storage(will show path)
+  * Adjustable Resolution from 1 to the maximum your camera offers
+  * Adjustable interval between pictures from 0ms to 2000ms
+    * smallest possible interval depends on chosen resolution
+  * Auto-Save in phone storage(will show path)
 
 # Screenshots
 Resolution selection       |  CapturePreview
@@ -14,6 +14,7 @@ Resolution selection       |  CapturePreview
 
 # App Name
 Don't worry I did not copy this app.
+
 I did copy the barcode scanner from open-git-hub.
 
 # Installation
