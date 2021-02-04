@@ -15,7 +15,7 @@ Resolution selection       |  CapturePreview
 # App Name
 Don't worry I did not copy this app.
 
-I did copy the barcode scanner from open-git-hub.
+I did copy the add barcode scanner from open-git-hub.
 
 # Installation
 1. Download the apk file [Link](https://github.com/Nyiri1/CollectMlData/raw/main/MlDataCollector.apk) 
