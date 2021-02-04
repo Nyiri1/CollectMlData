@@ -13,7 +13,7 @@ Resolution selection       |  CapturePreview
 ![](https://github.com/Nyiri1/CollectMlData/blob/main/Screenshot_2021-02-04-15-06-28.png)  |  ![](https://github.com/Nyiri1/CollectMlData/blob/main/Screenshot_2021-02-04-15-02-02.png)
 
 # App Name
-Don't worry, I did not copy this app.
+Don't worry I did not copy this app.
 I did copy the barcode scanner from open-git-hub.
 
 # Installation
